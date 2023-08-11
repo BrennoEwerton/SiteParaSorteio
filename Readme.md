@@ -1,0 +1,1 @@
+Essa aplicação tem como objetivo realizar sorteio de nomes (podendo também realizar sorteios com números).
